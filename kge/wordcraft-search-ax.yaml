@@ -13,7 +13,7 @@ train.max_epochs: 400
 
 search.type: ax
 ax_search:
-  num_trials: 1000
+  num_trials: 50
   parameters:
     - name: model
       type: choice
@@ -27,5 +27,5 @@ ax_search:
       log_scale: True
     - name: lookup_embedder.dim
       type: choice
-      values: [50, 100, 150, 200, 250, 300]
+      values: [100, 200, 300]
     
