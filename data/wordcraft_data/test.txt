@@ -1,0 +1,1169 @@
+life	1	bacteria
+earth	0	solar system
+earth	0	corpse
+wood	0	snow
+bird	0	house
+tool	1	omelette
+saddle	1	horse
+tool	0	sundial
+airplane	0	sea
+sword	1	scythe
+wine	1	sugar
+surfer	0	surfer
+sickness	0	boat
+tool	0	egg
+fabric	1	apron
+pond	0	bird
+legend	1	titanic
+solar system	0	space
+metal	1	needle
+wall	1	trainyard
+human	1	tool
+tool	1	axe
+garden	0	farmer
+wild boar	1	lasso
+scythe	1	hay
+stethoscope	1	doctor
+computer mouse	0	human
+sword	1	swordfish
+fruit	0	bacteria
+legend	0	gravestone
+sea	1	lighthouse
+bird	0	domestication
+big	0	duckling
+dinosaur	1	kaiju
+house	1	barn
+combustion engine	0	cart
+big	0	explosion
+mercury	0	glass
+train	0	mountain range
+egg	1	philosophy
+electricity	1	life
+container	0	yogurt
+snowman	0	sun
+energy	0	fruit
+grass	1	lawn mower
+meat	1	jerky
+owl	1	toucan
+steel	0	space
+garden	0	campfire
+smoke	0	house
+monkey	0	fruit
+wall	1	castle
+sea	0	bird
+warrior	1	blood
+dough	0	magic
+leaf	0	wall
+axe	1	chainsaw
+life	0	cookie
+letter	0	letter
+sword	0	shark
+steam	1	geyser
+farmer	1	idea
+glasses	0	sky
+christmas stocking	1	santa
+magic	0	dough
+heat	0	sea
+wood	1	tree
+letter	1	email
+big	0	soil
+puddle	1	ice
+rope	0	sheep
+sand	1	camel
+broom	1	closet
+palm	0	owl
+dawn	1	dew
+blizzard	0	glass
+farmer	1	orchard
+corpse	0	earth
+cow	0	mountain range
+paper	0	lion
+bird	0	dinosaur
+sea	0	egg
+bacteria	1	yogurt
+wood	1	bow
+human	0	rock
+drum	0	doctor
+bird	1	flying squirrel
+pig	0	rope
+house	0	book
+fire	0	fruit
+container	0	wolf
+wire	0	music
+love	1	ring
+vulture	1	egg
+tool	0	boiler
+acid rain	0	planet
+letter	1	post office
+piranha	0	wire
+glacier	1	avalanche
+cold	0	puddle
+mountain	0	water
+medusa	1	statue
+santa	1	gift
+city	0	bread
+wool	1	sweater
+story	1	fairy tale
+husky	0	wall
+train	1	trainyard
+witch	1	crystal ball
+human	0	mountain goat
+tool	0	steel
+glacier	0	earthquake
+container	0	money
+livestock	0	saddle
+gold	0	paper
+bread	1	cake
+space	0	human
+sky	0	ice
+sound	0	glacier
+big	1	sea
+lightning	0	lake
+mountain range	0	human
+newspaper	0	newspaper
+vulture	0	machine
+wax	1	candle
+puddle	0	egg
+internet	0	letter
+cow	0	container
+bone	1	chicken wing
+field	0	tool
+graveyard	0	story
+mountain range	0	legend
+cookie	0	life
+rain	0	smog
+rock	0	human
+glass	1	mirror
+container	1	toolbox
+sky	0	day
+egg	0	fire
+monkey	0	time
+container	1	ufo
+machine	1	engineer
+tree	0	fruit
+bird	0	village
+pressure	1	geyser
+juice	1	alcohol
+steel	1	ring
+house	0	cart
+gravestone	1	ghost
+wind	1	flute
+ghost	0	vegetable
+land	1	map
+recipe	0	recipe
+story	0	broom
+paper	1	origami
+field	1	plow
+puddle	1	water gun
+puddle	1	aquarium
+grass	0	fire
+witch	0	snow globe
+santa	0	christmas stocking
+lamp	0	fire
+hacker	0	hacker
+baker	1	statue
+ocean	1	seaweed
+cow	1	manatee
+river	0	beaver
+galaxy cluster	0	life
+livestock	0	santa
+rock	1	moss
+river	0	hill
+city	0	dinosaur
+bird	0	container
+oil	0	sugar
+lake	1	sea
+lizard	1	alligator
+bicycle	0	metal
+animal	0	coconut milk
+small	1	lizard
+cart	0	fabric
+philosophy	0	ozone
+owl	0	metal
+bird	1	phoenix
+electricity	0	rain
+butterfly	1	egg
+corpse	0	electricity
+book	1	librarian
+sea	1	current
+barn	0	wolf
+water	1	smoke
+atmosphere	0	airplane
+steel	1	gold
+egg	1	roe
+yogurt	0	container
+lake	1	nessie
+steamboat	1	rocket
+gun	0	sailor
+internet	1	email
+cold	1	ice cream
+rv	0	house
+corpse	0	hummingbird
+tree	1	squirrel
+paper	1	paper cup
+life	0	metal
+light	0	wax
+desert	1	sandstorm
+baker	1	cyborg
+ocean	1	seahorse
+pilot	1	statue
+squirrel	0	pigeon
+fire	0	egg
+shark	0	tool
+medusa	0	farmer
+storm	1	sandstorm
+bullet	0	metal
+rainforest	0	thread
+fabric	0	cart
+blade	0	blade
+hay	1	hay bale
+container	0	flower
+horse	0	paper
+baker	1	apron
+human	0	pyramid
+bread	0	city
+chocolate	0	dough
+rainbow	0	steel
+cook	0	paper
+cow	0	mud
+metal	0	owl
+newspaper	1	recipe
+pitchfork	0	farmer
+cow	1	goat
+water	1	ice
+pig	0	butcher
+smoke	1	acid rain
+cheese	0	farm
+ostrich	0	ostrich
+corpse	0	wolf
+ocean	0	ocean
+bird	1	pterodactyl
+light bulb	1	christmas tree
+salt	0	roe
+legend	0	cauldron
+sugar	0	thread
+thread	0	mountain goat
+electricity	0	light bulb
+seahorse	1	small
+container	1	galaxy
+eagle	0	dinosaur
+human	0	magic
+hill	1	mineral
+snow globe	0	witch
+pizza	0	container
+tool	0	cow
+metal	1	mailbox
+horse	1	seahorse
+small	0	life
+net	0	piranha
+wood	0	metal
+pilot	1	cyborg
+knight	1	idea
+air	1	cotton candy
+rock	1	meteoroid
+wheel	0	wind
+animal	1	reindeer
+love	0	flower
+hill	1	volcano
+fire	1	volcano
+field	1	lawn mower
+river	0	science
+post office	0	bank
+boat	1	titanic
+air	1	dust
+mouse	0	computer
+boiler	1	machine
+machine	0	lumberjack
+blade	0	human
+wave	1	sound
+wizard	0	sword
+cow	1	pig
+glass	0	water
+hammer	1	ore
+dog	0	ocean
+sky	1	sunglasses
+telescope	1	star
+plant	1	cotton
+city	0	gold
+hummingbird	1	airplane
+mailman	1	mailbox
+desert	0	saddle
+money	0	skyscraper
+mineral	1	battery
+dog	0	armor
+net	0	swordfish
+monkey	1	human
+philosophy	0	seahorse
+boat	0	bird
+barn	1	garage
+plant	0	blade
+water	0	sunglasses
+sun	1	day
+water	1	aquarium
+fire	0	dough
+wall	0	monarch
+lava	1	primordial soup
+bird	1	eagle
+earth	1	solid
+map	1	treasure map
+farmer	0	fruit tree
+music	0	wire
+seagull	1	airplane
+pyramid	0	human
+armor	0	cat
+nuts	1	squirrel
+light	0	clock
+sea	0	animal
+machine	1	paper
+heat	1	current
+goat	1	mountain goat
+pitchfork	1	hay
+paper	1	money
+stone	0	animal
+river	1	map
+dough	1	gingerbread man
+human	1	idea
+steel	1	cage
+garden	1	gardener
+barn	0	house
+farmer	0	medusa
+money	0	container
+philosophy	0	scorpion
+house	1	chimney
+steam engine	0	human
+day	0	sky
+skier	1	ski goggles
+pigeon	0	pigeon
+dinosaur	0	dinosaur
+smoke	0	city
+cow	0	butcher
+bacteria	1	mold
+santa	0	livestock
+seahorse	0	philosophy
+garden	1	hedge
+container	0	sun
+lava	0	mountain
+family	0	tree
+container	1	library
+sword	0	story
+rv	0	container
+steel	0	rainbow
+tree	1	palm
+cookie dough	1	gingerbread man
+sailor	0	gun
+sun	1	oxygen
+car	1	spaceship
+beaver	0	river
+sandwich	1	picnic
+lava	0	air
+sand	1	clay
+vulture	0	dinosaur
+paper airplane	0	robot
+earthquake	0	glacier
+surfer	1	idea
+farmer	1	field
+bone	0	chicken
+fence	1	hedge
+steel	0	lion
+bread	0	sugar
+pond	1	duck
+water	0	horse
+smoke	0	grass
+bird	0	field
+thread	0	sugar
+axe	1	scythe
+sandwich	0	cheese
+wire	1	vine
+human	1	hero
+fruit	1	pie
+river	0	mountain
+hill	0	organic matter
+fire	0	bread
+oxygen	1	ozone
+electricity	0	corpse
+bird	0	boat
+algae	1	moss
+life	1	plankton
+desert	1	pyramid
+container	1	box
+dinosaur	1	nessie
+mountain goat	0	thread
+bird	0	lake
+paper	1	printer
+pencil	1	paint
+house	0	dog
+space	0	car
+fruit	0	energy
+seaplane	1	helicopter
+sugar	1	chocolate
+hay	0	hay
+domestication	0	bird
+beach	0	glasses
+ice	0	heat
+blood	0	sack
+livestock	1	horse
+sundial	1	clock
+planet	1	venus
+human	1	alchemist
+family	1	family tree
+human	1	paleontologist
+time	0	monkey
+mountain	0	livestock
+universe	0	human
+glasses	1	sunglasses
+idea	0	container
+smog	1	acid rain
+statue	1	scarecrow
+explosion	1	atomic bomb
+ring	0	magic
+rope	1	lasso
+space	0	telescope
+desert	1	dune
+farm	0	house
+horse	1	trojan horse
+bakery	0	fruit
+chocolate	1	cookie dough
+bird	1	woodpecker
+tree	1	sap
+space	1	sun
+tool	1	lens
+dough	0	chocolate
+sun	0	sky
+tractor	1	garage
+cow	1	barn
+rain	0	tool
+armor	0	dog
+steam	0	pressure
+tool	1	machine
+surfer	1	statue
+house	1	library
+container	1	beehive
+water	0	lake
+dinosaur	0	small
+sheep	1	lasso
+tool	1	sundial
+oxygen	0	oxygen
+wheel	1	train
+bullet	0	bow
+mountain	1	waterfall
+machine	0	wood
+electricity	1	vacuum cleaner
+legend	0	steamboat
+tea	0	snow
+magic	0	mountain goat
+candle	0	pumpkin
+chicken	1	chicken wing
+angel	1	harp
+christmas tree	0	legend
+wolf	0	steel
+desert	1	camel
+needle	1	hedgehog
+story	1	gingerbread man
+bird	1	crow
+petroleum	1	explosion
+garden	1	carrot
+beach	1	picnic
+hospital	0	car
+wire	1	chain
+alarm clock	0	bird
+clay	1	brick
+ocean	1	steamboat
+human	0	wolf
+lake	1	life
+science	1	idea
+seed	1	chocolate
+ostrich	1	egg
+sky	0	sun
+wagon	1	train
+alcohol	1	perfume
+wall	1	hedge
+metal	1	bell
+steel	0	love
+earth	1	dust
+hacker	1	idea
+bakery	1	pie
+story	0	graveyard
+milk	1	ice cream
+stone	1	tool
+scythe	0	river
+tool	0	lumberjack
+sky	1	pegasus
+ninja	0	sword
+planet	1	mars
+fabric	0	baker
+hero	0	human
+lion	1	origami
+energy	0	container
+computer	1	computer mouse
+star	1	shuriken
+dinosaur	1	pterodactyl
+forest	1	vegetable
+sugar	0	seed
+bicycle	0	steam engine
+sandwich	0	beach
+science	0	light bulb
+space	0	steel
+park	0	train
+animal	0	cage
+machine	0	cotton
+water	0	wood
+human	0	bee
+ice	1	hail
+penguin	1	egg
+swamp	1	peat
+container	0	pizza
+steam engine	1	engineer
+sword	0	wizard
+sun	0	science
+garden	0	grass
+galaxy cluster	1	telescope
+paper	1	map
+sunglasses	1	ski goggles
+robot	0	pilot
+corpse	1	bone
+wolf	0	house
+seaplane	0	windmill
+glass	0	puddle
+primordial soup	1	life
+piranha	0	piranha
+land	1	continent
+jam	1	jar
+mouse	0	tree
+airplane	0	atmosphere
+letter	1	mailbox
+dog	1	doghouse
+car	0	firefighter
+lava	1	stone
+electricity	1	electric car
+plant	1	vegetable
+explosion	1	combustion engine
+wind	1	sandstorm
+mountain	1	glacier
+human	0	ocean
+motion	1	rivulet
+motion	0	axe
+robot	1	sewing machine
+wood	1	flute
+plant	1	reed
+water	1	fountain
+chocolate	0	coconut milk
+rain	0	campfire
+liquid	1	milk
+motion	1	chainsaw
+tool	0	field
+earth	1	continent
+wood	0	wind
+village	0	paper
+desert	0	penguin
+mist	1	cloud
+ice	0	sky
+robot	0	engineer
+cold	0	ocean
+safe	1	bank
+land	0	earth
+armor	1	armadillo
+light bulb	0	tree
+gun	1	water gun
+cup	0	paper
+wolf	0	barn
+steel	0	light bulb
+rope	0	pasta
+hero	0	windmill
+dinosaur	0	city
+paper airplane	1	drone
+campfire	0	water
+rope	0	pig
+horse	0	sand
+storm	1	electricity
+philosophy	1	small
+sunglasses	0	water
+sailor	0	treasure map
+dough	0	story
+sugar	0	air
+axe	1	meat
+container	1	hospital
+wheel	0	time
+human	1	lumberjack
+machine	0	bat
+iceberg	0	steamboat
+grass	1	tobacco
+chain	0	container
+heat	1	rain
+smoke	1	smoke signal
+sea	1	island
+metal	0	letter
+scythe	1	grim reaper
+machine	0	hummingbird
+wild boar	0	rope
+fish	1	meat
+goat	0	liquid
+soil	0	big
+mountain	0	lava
+cloud	0	heat
+pressure	1	volcano
+science	0	storm
+beach	0	light
+space	1	spaceship
+sky	1	day
+sleigh	1	garage
+letter	1	smoke signal
+banana	1	banana bread
+needle	0	animal
+glacier	0	sound
+monarch	1	fairy tale
+desert	0	horse
+lumberjack	1	chainsaw
+duckling	0	big
+owl	1	airplane
+snow	0	sunglasses
+light	1	angel
+lake	0	bird
+pond	1	reed
+hill	0	pressure
+mailman	0	steel
+paper	0	village
+combustion engine	1	car
+wheat	0	juice
+atmosphere	1	rocket
+armor	0	warrior
+day	1	sunglasses
+mouse	0	blade
+water	0	mountain
+grass	0	garden
+watch	0	light
+steel	0	wolf
+metal	0	life
+butcher	1	idea
+hill	1	goat
+water	0	air
+mud	1	pig
+bee	1	beehive
+skyscraper	1	ruins
+machine	1	thread
+owl	0	desert
+planet	0	acid rain
+robot	1	cyborg
+sky	1	cloud
+wood	0	wizard
+desert	1	vulture
+rock	0	space
+moon	1	owl
+story	1	don quixote
+plant	0	farmer
+container	1	garage
+computer	0	web
+grass	0	sword
+star	0	glass
+wheat	1	alcohol
+rock	0	dinosaur
+barn	1	dog
+fruit	0	cold
+science	1	current
+machine	0	vulture
+wheel	1	oil
+flower	0	owl
+metal	0	bicycle
+cold	0	glasses
+livestock	1	goat
+snow	1	snowboard
+train	1	tunnel
+farm	1	chicken
+time	1	ruins
+snow	0	tea
+wolf	0	container
+water	0	cloud
+domestication	0	animal
+sky	0	horse
+hill	1	ore
+grass	0	pond
+campfire	1	smoke
+bread	0	banana
+space	1	astronaut
+computer mouse	1	hacker
+mountain	0	bird
+blade	0	plant
+christmas stocking	0	human
+river	1	waterfall
+tool	0	earth
+sky	1	hail
+ice cream	0	container
+livestock	1	reindeer
+storm	0	lake
+tree	0	mud
+earth	0	air
+mountain range	1	continent
+gun	1	tank
+corpse	1	vulture
+quicksilver	0	engineer
+wheel	0	boiler
+net	1	spider
+time	1	tide
+hay	0	machine
+water	0	glass
+algae	0	rock
+sheep	0	house
+earth	1	mountain
+wheat	0	windmill
+air	0	rain
+mist	0	sky
+livestock	0	mountain
+airplane	1	rocket
+metal	1	gun
+tool	1	clock
+air	0	lava
+ice	0	time
+wheel	0	steel
+engineer	1	thermometer
+pressure	0	organic matter
+container	0	chain
+rope	0	wild boar
+vegetable	0	ghost
+livestock	1	pig
+oil	1	soap
+scorpion	1	small
+cloud	1	fog
+thread	0	wax
+light bulb	0	human
+treasure	0	map
+diver	0	diver
+field	0	livestock
+wave	0	air
+fire	0	meat
+human	0	tree
+house	0	farm
+cow	1	meat
+cup	1	string phone
+steamboat	0	atmosphere
+primordial soup	0	electricity
+machine	0	seagull
+time	1	clock
+heat	0	meat
+skyscraper	0	safe
+steamboat	1	titanic
+pressure	0	hill
+metal	1	airplane
+chicken	0	egg
+sun	1	plasma
+bread	1	toast
+animal	0	net
+wheat	1	flour
+lake	0	paper
+idea	0	earth
+computer	1	printer
+rock	1	gravestone
+sunflower	0	wheel
+tractor	0	house
+mountain goat	1	cashmere
+tobacco	1	pipe
+rope	0	animal
+wood	0	sea
+water	0	life
+container	0	chicken
+glass	1	glasses
+hummingbird	0	squirrel
+windmill	0	story
+wheel	0	sunflower
+legend	0	cow
+helicopter	0	container
+story	1	witch
+tree	1	swamp
+sea	0	lava
+container	1	chicken coop
+time	0	skyscraper
+light	1	candle
+lizard	0	double rainbow!
+mountain	1	river
+river	1	alligator
+wine	1	drunk
+barn	1	hay bale
+sun	1	sunglasses
+wagon	0	steam engine
+beehive	0	sword
+dog	1	armadillo
+wood	1	plow
+windmill	1	helicopter
+house	0	plant
+gold	1	alchemist
+farmer	1	vegetable
+bird	1	pigeon
+plant	1	tobacco
+blade	1	sap
+volcano	0	sea
+flour	0	water
+sun	1	big
+cauldron	0	legend
+human	0	lamp
+monarch	0	story
+swamp	0	human
+christmas tree	0	glass
+gun	0	car
+skyscraper	0	money
+scythe	0	grass
+human	0	lightning
+bow	0	bullet
+soil	0	tool
+death	1	grim reaper
+cold	1	ice
+island	1	palm
+fruit	0	monkey
+boat	1	seasickness
+engineer	0	quicksilver
+legend	0	mountain range
+lightning	0	human
+glass	0	christmas tree
+pirate ship	1	rat
+glasses	0	cold
+dinosaur	1	paleontologist
+car	0	gun
+stethoscope	0	human
+wheel	1	windmill
+bank	1	city
+palm	1	toucan
+ocean	1	seal
+garden	1	hummingbird
+wood	0	tool
+snow	0	wood
+metal	1	tool
+rose	1	perfume
+scorpion	0	philosophy
+dough	1	cookie dough
+spotlight	0	ocean
+pipe	1	dynamite
+human	1	engineer
+bird	0	moon
+hill	0	cow
+human	0	blade
+family	1	village
+treasure map	0	sailor
+car	1	tank
+sickness	1	seasickness
+coconut milk	1	chocolate
+ice	1	igloo
+fairy tale	1	legend
+glass	0	galaxy cluster
+web	1	internet
+hero	1	story
+horse	1	wagon
+corpse	0	wood
+lizard	1	chameleon
+lake	0	water
+cage	1	zoo
+land	0	algae
+solid	0	water
+umbrella	0	atmosphere
+tool	0	shark
+tool	1	coconut milk
+plant	0	fabric
+human	0	light
+sheep	0	container
+legend	0	christmas stocking
+metal	0	hammer
+human	0	steam engine
+safe	0	skyscraper
+juice	0	wheat
+wire	0	rainforest
+house	0	spotlight
+fabric	0	plant
+magic	1	faun
+corpse	1	coffin
+blade	1	mousetrap
+butcher	0	pig
+doctor	0	sword
+needle	0	robot
+livestock	1	barn
+stone	1	gravestone
+container	1	cave
+glass	0	mercury
+smoke	1	chimney
+letter	0	steel
+rain	1	mist
+forest	1	park
+rock	0	rock
+desert	0	mountain
+fire	0	earth
+heat	1	jerky
+sandwich	0	garden
+graveyard	1	gravestone
+house	1	wagon
+animal	0	christmas stocking
+wolf	0	field
+ozone	1	small
+field	1	crow
+paper	0	lake
+earthquake	1	tsunami
+bird	1	pegasus
+organic matter	0	pressure
+legend	1	witch
+house	0	barn
+medusa	0	pilot
+life	0	galaxy cluster
+dinosaur	0	bird
+livestock	1	cow
+water	1	sea
+story	0	windmill
+electricity	0	broom
+steam engine	0	explosion
+cup	0	thread
+pigeon	0	squirrel
+cheese	0	wheel
+horse	0	bird
+steel	1	bridge
+energy	1	atomic bomb
+thread	1	candle
+explosion	0	steam engine
+galaxy cluster	1	alien
+butterfly	0	butterfly
+corpse	1	charcoal
+piranha	1	fishing rod
+doctor	1	idea
+sound	1	stethoscope
+sun	1	sky
+post office	1	city
+park	1	roller coaster
+soil	0	farmer
+spotlight	0	house
+boulder	0	small
+water	0	statue
+mountain	1	yeti
+air	0	steel
+barn	0	sleigh
+light bulb	0	science
+clock	1	sundial
+wood	0	machine
+sword	0	star
+water	1	paint
+saddle	1	camel
+paper cup	0	thread
+sword	1	katana
+hay	0	barn
+cloud	0	forest
+doctor	1	stethoscope
+time	1	legend
+wind turbine	0	wagon
+star	0	sun
+ice	0	house
+solar system	0	container
+wood	1	axe
+animal	1	butterfly
+metal	0	thread
+field	1	cow
+lumberjack	0	tool
+barn	1	scarecrow
+human	0	beer
+explosion	0	big
+sheep	0	rope
+husky	1	doghouse
+goat	1	milk
+puddle	0	glass
+sky	1	sun
+alchemist	1	idea
+beaver	1	platypus
+human	1	beekeeper
+farm	1	barn
+cart	0	house
+time	1	peat
+lava	0	hill
+rock	1	boulder
+farmer	1	gardener
+wire	0	piranha
+house	1	cave
+field	0	helicopter
+love	0	steel
+tool	1	meat
+pirate ship	0	mouse
+snow	0	mountain
+oil	1	chocolate
+statue	0	horse
+puddle	1	frog
+coconut milk	0	animal
+ocean	0	wolf
+heat	0	ice
+sun	0	glasses
+doctor	0	drum
+hill	0	hammer
+animal	0	rope
+lamp	0	wax
+dinosaur	0	eagle
+tool	1	field
+human	1	doctor
+garden	0	vegetable
+banana bread	0	human
+shark	0	sword
+glass	0	metal
+steam engine	1	combustion engine
+bird	1	duck
+sun	0	atmosphere
+steel	0	butter
+helicopter	0	field
+pilot	1	parachute
+grass	1	hay
+owl	1	crow
+goat	0	mountain range
+blade	1	rose
+sleigh	0	barn
+vulture	0	vulture
+windmill	0	seaplane
+fire	0	bird
+fruit tree	1	orchard
+snow globe	1	crystal ball
+mouse	0	nuts
+gunpowder	1	dynamite
+lava	0	sea
+field	0	bird
+bread	1	bakery
+stone	0	graveyard
+science	1	electricity
+mouse	1	rat
+steel	1	lamp
+soil	1	land
+cheese	1	cheeseburger
+pond	0	flower
+village	1	pigeon
+armor	1	knight
+tree	0	light bulb
+wood	0	steel
+metal	1	steel
+human	1	corpse
+lumberjack	0	machine
+lake	0	lightning
+animal	1	bird
+electric eel	1	snake
+cotton	0	cotton
+air	0	water
+horse	0	ocean
+wheel	1	car
+sunglasses	0	snow
+petroleum	0	volcano
+lumberjack	1	axe
+rope	1	snake
+cheese	1	pizza
+time	0	fairy tale
+farm	0	bird
+coconut milk	1	cat
+wood	0	plant
+space	1	star
+squirrel	0	seaplane
+sword	1	wand
+field	0	wolf
+coconut milk	0	container
+rope	1	spaghetti
+steel	0	mailman
+human	1	sailor
+container	0	book
+house	0	sheep
+sound	0	doctor
+blade	0	cook
+time	1	petroleum
+metal	0	rainbow
+container	0	idea
+wizard	0	wood
+butcher	0	cow
+owl	0	flower
+pizza	1	box
+fruit	1	banana
+statue	1	trojan horse
+human	1	skier
+wine	0	human
+water	0	solid
+lion	0	steel
+chain	1	toolbox
+doctor	0	doctor
+dawn	0	tree
+sand	0	horse
+wall	1	mouse
+wind	0	boat
+machine	0	human
+swamp	0	time
+lion	0	paper
+spaceship	0	alien
+cow	0	legend
+christmas tree	1	snow globe
+bacteria	0	fruit
+plant	1	rose
+fruit	0	fire
+solid	1	ice
+machine	0	juice
+wolf	1	werewolf
+chicken	0	container
+atmosphere	0	steamboat
+seaplane	0	squirrel
+meat	0	newspaper
+recipe	1	cookbook
+sailor	1	treasure
+garden	0	animal
+blood	1	blood bag
+light bulb	1	lamp
+grave	0	night
+wood	1	ruler
+animal	0	stone
+animal	1	snake
+magic	0	ring
+broom	0	electricity
+electricity	1	lightning
+axe	0	cow
+human	1	angel
+wind	0	desert
+computer	0	paper
+forest	0	city
+wolf	1	cave
+water	0	heat
+mud	0	sand
+land	0	electric eel
+pumpkin	0	night
+bullet	1	gun
+machine	0	owl
+sky	0	fire
+sun	1	salt
+hummingbird	1	flying squirrel
+snow	0	coal
+legend	0	lake
+atmosphere	1	parachute
+human	0	computer mouse
+helicopter	1	hangar
+train	0	park
+warrior	1	knight
+solid	0	puddle
+tree	0	island
+hammer	0	metal
+sea	1	boat
+beach	1	sunglasses
+thread	1	cotton candy
+electric eel	0	land
+sunflower	1	perfume
+saddle	0	livestock
+fire	0	corpse
+big	1	blizzard
+steel	1	spaceship
+puddle	1	reed
+legend	1	nessie
+lake	0	legend
+sea	1	lake
+wood	1	wand
+train	1	roller coaster
+sundial	0	tool
+container	0	energy
+sun	0	grass
+grass	0	scythe
+wind	1	tornado
+corpse	0	fire
+milk	1	yogurt
+electricity	1	light
+horse	0	water
+human	1	glasses
+night	1	ghost
+windmill	1	don quixote
+mountain range	1	yeti
+time	1	glacier
+container	1	battery
+human	1	santa
+bank	0	post office
+rope	0	wood
+wall	0	husky
+horse	0	cart
+bird	0	horse
+cow	0	hill
+fire	0	clay
+wind	0	wood
+cart	0	combustion engine
+light sword	1	force knight
+big	0	lake
